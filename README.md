@@ -1,2 +1,2 @@
 # HCI
-This is my final task of project-based internship at Home Credit Indonesia x Rakamin Academy.
+This is my final task to complete the project-based internship at Home Credit Indonesia x Rakamin Academy.
